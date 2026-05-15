@@ -17,7 +17,7 @@
 # Tuple
 # my_tuple = (1, 2, 3, 4, 5)
 # print(my_tuple)
-# Set   
+# Set   l
 # my_set = {1, 2, 3, 4, 5}
 # print(my_set)
 # Dictionary
@@ -121,7 +121,7 @@
 # def greet(name):
     # return f"Hello, {name}!"
 # print(greet("Jaffar")) 
-
+    
 def greet(name):
     print(f"Hello, {name}!")
 
